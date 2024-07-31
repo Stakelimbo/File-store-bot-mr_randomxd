@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/62BM3vb9" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://postimg.cc/62BM3vb9" alt="Mr_randomxd Logo">
 </p>
 <h1 align="center">
   MR RANDOMxd
@@ -110,7 +110,7 @@ Copyright ©️ [mr_randmxd](https://telegram.me/mr_randomxd)
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/mr_randomxd)
+### Copyright ©️ [mr_randomxd](https://telegram.me/mr_randomxd)
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
