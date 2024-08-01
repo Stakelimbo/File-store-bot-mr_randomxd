@@ -1,9 +1,9 @@
 import jinja2
 from config import LOG_CHANNEL, URL
-from TechVJ.bot import StreamBot
-from TechVJ.utils.human_readable import humanbytes
-from TechVJ.utils.file_properties import get_file_ids
-from TechVJ.server.exceptions import InvalidHash
+from MR_RANDOMxd.bot import StreamBot
+from MR_RANDOMxd.utils.human_readable import humanbytes
+from MR_RANDOMxd.utils.file_properties import get_file_ids
+from MR_RANDOMxd.server.exceptions import InvalidHash
 import urllib.parse
 import logging
 import aiohttp
