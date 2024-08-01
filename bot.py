@@ -34,16 +34,16 @@ from Script import script
 from datetime import date, datetime 
 import pytz
 from aiohttp import web
-from TechVJ.server import web_server
+from MR_RANDOMxd.server import web_server
 
 
 
 import asyncio
 from pyrogram import idle
 from plugins.clone import restart_bots
-from TechVJ.bot import StreamBot
-from TechVJ.utils.keepalive import ping_server
-from TechVJ.bot.clients import initialize_clients
+from MR_RANDOMxd.bot import StreamBot
+from MR_RANDOMxd.utils.keepalive import ping_server
+from MR_RANDOMxd.bot.clients import initialize_clients
 
 
 
@@ -57,7 +57,7 @@ loop = asyncio.get_event_loop()
 
 async def start():
     print('\n')
-    print('Initalizing Tech VJ Bot')
+    print('Initalizing MR_RANDOMxd Bot')
     bot_info = await StreamBot.get_me()
     StreamBot.username = bot_info.username
     await initialize_clients()
@@ -71,7 +71,7 @@ async def start():
             load = importlib.util.module_from_spec(spec)
             spec.loader.exec_module(load)
             sys.modules["plugins." + plugin_name] = load
-            print("Tech VJ Imported => " + plugin_name)
+            print("MR_RANDOMxd Imported => " + plugin_name)
     if ON_HEROKU:
         asyncio.create_task(ping_server())
     me = await StreamBot.get_me()
@@ -86,7 +86,7 @@ async def start():
     await web.TCPSite(app, bind_address, PORT).start()
     if CLONE_MODE == True:
         await restart_bots()
-    print("Bot Started Powered By @VJ_Botz")
+    print("Bot Started Powered By @MR_RANDOMxd")
     await idle()
 
 
