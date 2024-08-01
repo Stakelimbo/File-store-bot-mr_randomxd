@@ -6,12 +6,12 @@ import secrets
 import mimetypes
 from aiohttp import web
 from aiohttp.http_exceptions import BadStatusLine
-from TechVJ.bot import multi_clients, work_loads, StreamBot
-from TechVJ.server.exceptions import FIleNotFound, InvalidHash
-from TechVJ import StartTime, __version__
+from MR_RANDOMxd.bot import multi_clients, work_loads, StreamBot
+from MR_RANDOMxd.server.exceptions import FIleNotFound, InvalidHash
+from MR_RANDOMxd import StartTime, __version__
 from ..utils.time_format import get_readable_time
 from ..utils.custom_dl import ByteStreamer
-from TechVJ.utils.render_template import render_page
+from MR_RANDOMxd.utils.render_template import render_page
 from config import MULTI_CLIENT
 
 
