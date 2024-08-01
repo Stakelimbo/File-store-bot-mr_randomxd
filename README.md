@@ -5,7 +5,7 @@
   MR RANDOMxd
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+MR_RANDOMXD-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@mr_randomxd!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+MR_RANDOMXD-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@mr_randomxd!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+MR+RANDOMxd;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
 
