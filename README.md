@@ -87,7 +87,7 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/mr_randomxd)
+💝 Credit Goes To [MR_RANDOMxd](https://telegram.me/mr_randomxd)
 
 🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/mr_randomxd) So Don't Forgot To Give Credit
 
